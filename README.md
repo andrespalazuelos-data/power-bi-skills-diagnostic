@@ -29,7 +29,7 @@ I'm sharing it as a learning resource for others who want to refresh their Power
 
 ## How to Use
 
-1. Open the [Power BI Skills Diagnostic](index.html) in your web browser.
+1. Open the [Power BI Skills Diagnostic](power_bi_skills_diagnostic) in your web browser.
 2. Answer the questions based on your current knowledge.
 3. Review the explanations and rate your confidence.
 4. Analyze your results to identify areas for improvement.
